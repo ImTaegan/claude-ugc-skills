@@ -1,6 +1,8 @@
 .DS_Store
 .idea/
-.vscode/
 node_modules/
 *.log
 brand-voices/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

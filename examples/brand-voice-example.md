@@ -1,12 +1,12 @@
 ---
-brand: Example Indie Dev Brand
-extracted: 2026-05-03
+brand: Fictional Demo Brand
+extracted: [demo]
 samples: 6
 ---
 
-# Example Indie Dev Brand — voice profile
+# Fictional Demo Brand — voice profile
 
-> This is an EXAMPLE profile to show what `/brand-voice extract` produces. The skill builds your real one from samples you provide.
+> ⚠️ **THIS IS A FICTIONAL DEMO FILE.** Every quote, number, story, and sample below is invented to illustrate the format `/brand-voice extract` produces. None of it is the author's real writing. The skill builds your real profile from samples you provide.
 
 ## Tone signature
 Plain-spoken + builder-first + dryly self-aware
@@ -64,10 +64,12 @@ Plain-spoken + builder-first + dryly self-aware
 
 ## Source samples
 
+*All quotes below are fabricated for this demo file. They are not from any real account.*
+
 > "Tuesday at 2am, I was four cups of coffee deep when Stripe finally let me charge cards. The bug was — of course — a missing trailing slash."
-> — LinkedIn post, Mar 2026
+> — [Fictional LinkedIn post]
 
 > "I've been telling people to use [tool X] for two years. I was wrong about it for at least one of those years. Here's what I missed."
-> — Twitter thread opener, Apr 2026
+> — [Fictional Twitter thread opener]
 
-[... 4 more excerpts ...]
+[... 4 more fictional excerpts would appear here in a real profile ...]

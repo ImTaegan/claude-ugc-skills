@@ -56,28 +56,27 @@ cp -r path/to/claude-ugc-skills/skills/* .claude/skills/
 
 ```
 /hook-generator
-  Idea: "Why I switched from Webflow to Next.js"
-  Audience: indie devs, designer-developers
-  → 10 hooks across 5 frameworks
-
-  Pick: "I spent $2,400/yr on Webflow. Then I tried this." (contrarian)
+  Idea: [your video idea, 1-3 sentences]
+  Audience: [who this is for]
+  Concrete detail: [a number, tool, or moment that anchors the story]
+  → 10 hooks across 7 frameworks, each tagged with why it should work
 
 /ugc-script
-  Hook: [the one I picked]
+  Hook: [the one you picked]
   Length: 60s
   Format: TikTok / IG Reel
   → 60s script with timestamps, shot list, B-roll cues
-    (asks me for the actual cost numbers, the actual switching moment)
+    (asks you for the real numbers and moments — never invents them)
 
   ...shoot the video...
 
 /repurpose-planner
-  Source: my new 60s video
-  → Plan for IG carousel, LinkedIn post, X thread, newsletter section
+  Source: your new 60s video transcript
+  → Platform-specific plans: IG carousel, LinkedIn post, X thread, newsletter
 
 /caption-pack
-  Content: my new 60s video
-  → Platform-specific captions + hashtag sets
+  Content: your new 60s video
+  → Platform-specific captions + hashtag sets for each platform
 ```
 
 ## Skills in depth
